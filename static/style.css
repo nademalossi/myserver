@@ -1,0 +1,731 @@
+
+body.touch {
+    margin: 0;
+    -webkit-text-size-adjust: none;
+    cursor: pointer;
+}
+.touch, .touch tr, .touch input, .touch textarea, .touch .mfsm {
+    font-size: 14px;
+    line-height: 18px;
+}
+.acw {
+    background-color: #fff;
+}
+.acw {
+    border-color: #e9e9e9;
+}
+.touch, .touch .btn, .touch .input, .touch button, .touch input, .touch select, .touch textarea {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.touch, .touch td, .touch input, .touch textarea .touch button {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+body, tr, input, textarea, .mfsm {
+    font-size: medium;
+}
+body, p, figure, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dd, dt {
+    margin: 0;
+    padding: 0;
+}
+body, tr, input, textarea, button {
+    font-family: sans-serif;
+}
+body {
+    text-align: left;
+    direction: ltr;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+div {
+    display: block;
+}
+/* *************************************** BODY *****************************/
+element.style {
+    min-height: 696px;
+}
+@supports (padding-left: env(safe-area-inset-left)) and (padding-right: env(safe-area-inset-right))
+
+#root{
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+}
+#root {
+    border-bottom: 1px solid transparent;
+    box-sizing: border-box;
+}
+.acw {
+    background-color: #fff;
+}
+
+.acw {
+    border-color: #e9e9e9;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+.touch ._7om2 {
+    display: flex;
+    display: -webkit-flex;
+}
+.touch ._4g34 {
+    -webkit-flex: 1;
+    flex: 1;
+    min-width: 0;
+    width: 0;
+}
+._2ph- {
+    padding: 8px;
+}
+
+._5yd1 {
+    color: #fff;
+}
+._5yd0 {
+    background: #fa3e3e;
+
+}
+._9om_ {
+    margin-bottom: 36px;
+}
+.touch ._52we {
+    align-items: center;
+}
+.touch ._7om2 {
+    display: flex;
+    display: -webkit-flex;
+}
+._2pid {
+    padding-top: 8px;
+}
+
+._52z6 {
+    min-width: 100px;
+    text-align: center;
+}
+.touch ._4g34 {
+    -webkit-flex: 1;
+    flex: 1;
+    min-width: 0;
+    width: 0;
+}
+._5soa ._5rut {
+    padding: 0 16px;
+}
+
+.touch ._5rut {
+    margin: 0 auto;
+    max-width: 416px;
+}
+._9hp- {
+    padding-bottom: 1px;
+    padding-top: 8px;
+}
+
+._5spm {
+    padding-bottom: 1px;
+    padding-top: 16px;
+}
+form {
+    margin: 0;
+    border: 0;
+}
+user agent stylesheet
+form {
+    display: block;
+    margin-top: 0em;
+}
+.touch, .touch tr, .touch input, .touch textarea, .touch .mfsm {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.touch input, .touch textarea {
+    -webkit-user-select: text;
+}
+.touch, .touch .btn, .touch .input, .touch button, .touch input, .touch select, .touch textarea {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.touch, .touch td, .touch input, .touch textarea .touch button {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+body, tr, input, textarea, .mfsm {
+    font-size: medium;
+}
+body, tr, input, textarea, button {
+    font-family: sans-serif;
+}
+user agent stylesheet
+input[type="hidden" i] {
+    appearance: none;
+    background-color: initial;
+    cursor: default;
+    display: none !important;
+    padding: initial;
+    border: initial;
+}
+user agent stylesheet
+input {
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+._56be {
+    position: relative;
+}
+._56be::before {
+    border-color: rgba(0, 0, 0, .07) rgba(0, 0, 0, .11) rgba(0, 0, 0, .18);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    bottom: -1px;
+    content: '';
+    left: -1px;
+    pointer-events: none;
+    position: absolute;
+    right: -1px;
+    top: -1px;
+}
+._1upc {
+    background-color: #f5f6f7;
+}
+._56bf {
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+._55wo {
+    background: #fff;
+}
+.touch ._56bg {
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.touch ._4u9z {
+    padding: 12px;
+}
+.touch, .touch tr, .touch input, .touch textarea, .touch .mfsm {
+    font-size: 14px;
+    line-height: 18px;
+}
+.touch input, .touch textarea {
+    -webkit-user-select: text;
+}
+.touch, .touch .btn, .touch .input, .touch button, .touch input, .touch select, .touch textarea {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.touch, .touch td, .touch input, .touch textarea .touch button {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+._56bg {
+    border: 0;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+._8qtm {
+    background: #f5f6f7;
+}
+._8qtn {
+    background: #f5f6f7;
+}
+body, tr, input, textarea, .mfsm {
+    font-size: medium;
+}
+body, tr, input, textarea, button {
+    font-family: sans-serif;
+}
+user agent stylesheet
+input[type="text" i] {
+    padding: 1px 2px;
+}
+user agent stylesheet
+input {
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+.touch ._5soa ._28lf::before {
+    background-color: #1877f2;
+    background-image: none;
+}
+
+.touch ._56bu::before, .touch.wp.x1-5 ._56bu::before, .touch.wp.x2 ._56bu::before {
+    background-color: #627aad;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, .1));
+}
+.touch ._56bs::before, .touch.wp.x1-5 ._56bs::before, .touch.wp.x2 ._56bs::before {
+    border-radius: 4px;
+    bottom: -1px;
+    content: '';
+    left: -1px;
+    pointer-events: none;
+    position: absolute;
+    right: -1px;
+    top: -1px;
+    transform: none;
+    z-index: -1;
+}
+._56bw ._55sr {
+    line-height: 24px;
+    margin-top: 6px;
+}
+._56bs ._55sr {
+    line-height: 20px;
+    margin-top: 4px;
+}
+._56bs ._55sr {
+    display: inline-block;
+}
+a._2347, ._55sr {
+    pointer-events: none;
+}
+html .touch ._5soa ._28lf::after {
+    border-image: none;
+    border-width: 0;
+}
+.touch.x1-5 ._56bv::after, .touch.x2 ._56bv::after, .touch.x1-5 ._56bu::after, .touch.x2 ._56bu::after {
+    border-color: initial;
+    border-image: url(/rsrc.php/v3/yQ/r/GPGyYijOozz.png) 14 14 14 14 repeat;
+}
+.touch.x1-5 ._56bs::after, .touch.x2 ._56bs::after {
+    border-color: initial;
+    border-image: url(/rsrc.php/v3/yL/r/xPl8WVawWbA.png) 14 14 14 14 repeat;
+}
+.touch.x1-5 ._56bs::after, .touch.x2 ._56bs::after {
+    border-color: transparent;
+    border-radius: 0;
+    border-width: 7px;
+    bottom: -3px;
+    box-shadow: none;
+    left: -3px;
+    right: -3px;
+    top: -3px;
+}
+.touch ._5soa ._9cow {
+    font-size: 17px;
+    height: 40px;
+    line-height: 40px;
+}
+._56bs._56b_ {
+    display: block;
+    width: 100%;
+}
+.touch ._56bu, .touch ._56bv, .touch a._56bu, .touch a._56bv {
+    text-shadow: 0 -1px rgb(0 0 0 / 25%);
+}
+.touch ._56bs {
+    border: none;
+    border-radius: 3px;
+    box-sizing: border-box;
+    position: relative;
+    -webkit-user-select: none;
+    z-index: 0;
+}
+.touch, .touch .btn, .touch .input, .touch button, .touch input, .touch select, .touch textarea {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+._56bw {
+    font-size: 14px;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 16px;
+}
+._56bu, ._56bv, a._56bu, a._56bv, .touch a._56bu, .touch a._56bv, a.touchable._56bu, a.touchable._56bv {
+    color: #fff;
+}
+._56bs {
+    -webkit-appearance: none;
+    background: none;
+    display: inline-block;
+    font-size: 12px;
+    height: 28px;
+    line-height: 28px;
+    margin: 0;
+    overflow: visible;
+    padding: 0 9px;
+    text-align: center;
+    vertical-align: top;
+    white-space: nowrap;
+}
+._52jh {
+    font-weight: bold;
+}
+body, tr, input, textarea, button {
+    font-family: sans-serif;
+}
+user agent stylesheet
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+.touch ._7f_d {
+    padding: 12px 10px 6px;
+}
+.touch ._7eif {
+    padding-top: 12px;
+}
+.touch ._55wq {
+    padding: 4px;
+}
+
+._2pie {
+    padding-top: 12px;
+}
+._xo8 {
+    margin-bottom: -15px;
+    margin-top: 15px;
+}
+
+
+/* *********************** FORM ****************************/
+.touch ._5soa ._9omz {
+    margin-bottom: -36px;
+}
+
+._2pie {
+    padding-top: 12px;
+}
+._52jj {
+    text-align: center;
+}
+.touch a._9on1 {
+    color: #216fdb;
+    font-family: 'Roboto-Regular', 'Helvetica', 'sans-serif';
+    font-size: 14px;
+    line-height: 16px;
+}
+.touch a {
+    color: #576b95;
+    cursor: pointer;
+    text-decoration: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+._8qtf {
+    margin: 12px 0 4px 0;
+    width: 100%;
+}
+
+._43mg {
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    white-space: nowrap;
+}
+._43mg>span {
+    display: inline-block;
+    position: relative;
+}
+
+._43mh {
+    color: #4b4f56;
+}
+._43mg>span:before {
+    margin-right: 15px;
+    right: 100%;
+}
+
+._43mg>span:before, ._43mg>span:after {
+    background: #ccd0d5;
+    content: '';
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    width: 9999px;
+}
+._43mg>span:after {
+    left: 100%;
+    margin-left: 15px;
+}
+
+._43mg>span:before, ._43mg>span:after {
+    background: #ccd0d5;
+    content: '';
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    width: 9999px;
+}
+/****************************** sd**********************/
+
+
+html .touch ._5soa ._agmp {
+    background: white;
+    border-color: #bec3c9;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: none;
+    color: #000;
+    display: inline-block;
+    flex: none;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -0.23px;
+    text-align: center;
+    text-shadow: none;
+    white-space: nowrap;
+    width: 80%;
+}
+
+html .touch .btn {
+    line-height: 27px;
+}
+
+.touch .medBtn {
+    padding: 3px 8px 2px;
+}
+.touch .btn {
+
+    border-radius: 4px;
+    box-sizing: border-box;
+   
+    min-width: 50px;
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+    vertical-align: bottom;
+   
+}
+
+.touch, .touch .btn, .touch .input, .touch button, .touch input, .touch select, .touch textarea {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.touch a {
+
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn {
+
+    margin: 0;
+
+}
+.app, .touchable, .btn, i.img {
+    -webkit-user-select: none;
+}
+._2pie {
+    padding-top: 12px; 
+}
+._5soa ._5rut .other-links {
+    padding-bottom: 36px;
+    text-align: center;
+}
+.touch ._55wp {
+    padding: 0;
+}
+._5pkb, ._5pkc {
+    margin: 0;
+}
+ul, ol {
+    list-style: none;
+}
+body, p, figure, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dd, dt {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+ul {
+    display: block;
+  /*  list-style-type: disc;*/
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+._5t3b {
+    padding: 12px 0 12px 0;
+}
+
+.touch ._55wr {
+    padding: 8px;
+}
+.touch ._5ui2 ._5dpw {
+    text-align: center;
+}
+.touch ._5ui3 {
+    padding: 6px;
+}
+._52jh {
+    font-weight: bold;
+}
+._52jc {
+    font-size: 12px;
+    line-height: 16px;
+}
+._52j9 {
+    color: #90949c;
+}
+.touch ._4g34 {
+  /*  -webkit-flex: 1;*/
+    flex: 1;
+    min-width: 0;
+    width: 0;
+}
+._96qv {
+    margin: 4px 10px;
+    padding: 2px;
+    text-align: center;
+    word-break: break-word;
+}
+.touch ._7om2 {
+  /*  display: flex;*/
+    display: -webkit-flex;
+}
+
+.touch ._96qv ._96qw {
+    color: #8a8d91;
+}
+
+._9a0a ._96qw {
+    margin: 2px 0;
+    padding: 0 1px;
+}
+
+._96qw {
+    display: inline-block;
+    font-size: 10px;
+    line-height: 13px;
+    position: relative;
+    top: -2px;
+    white-space: nowrap;
+    word-break: keep-all;
+}
+
+.touch .mfss {
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.fcg {
+    color: gray;
+}
+
+.massage{
+
+    text-align: center;
+    background-color: #fff9d7;
+    padding: 12px;
+    border:1px;
+    border-color: #e2c822;
+    border-style: solid;
+    margin-bottom: 10px;
+}
+._2ph- {
+    padding: 8px;
+}
+._5yd1 {
+    color: #fff;
+}
+._5yd0 {
+    background: #fa3e3e;
+}
+user agent stylesheet
+div {
+    display: block;
+
+}
+#_652e{
+
+}
